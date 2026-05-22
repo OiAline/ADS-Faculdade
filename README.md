@@ -60,6 +60,10 @@ Este repositório documenta o aprendizado.
 
 O projeto LYS concentra a aplicação prática.
 
+➡️ Projeto principal:  
+
+[Conhecer o projeto LYS](https://github.com/OiAline/Lash-Your-Style-APP)
+
 ---
 
 ## 📈 Evolução contínua
