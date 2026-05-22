@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img src="assets/Banner-ads.png" alt="ADS Journey Banner">
+
+</p>
+
 # 🎓 ADS Journey
 
 Repositório dedicado à minha trajetória de aprendizado em Análise e Desenvolvimento de Sistemas (ADS), reunindo estudos, atividades acadêmicas, exercícios práticos e aplicações reais desenvolvidas ao longo da graduação.
